@@ -1,0 +1,9 @@
+EMPEZAR
+CONTINUAR
+CREDITOS
+Programacion:
+Ambar Martinez Nagy
+legajo 883317/6
+Autor del cuento:
+Julio Cortázar
+REINICIAR
